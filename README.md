@@ -1,4 +1,4 @@
 # Spotify-Clone
-Just a clone of Spotify app.
 
-Using only HTML, CSS.
+Designed a static interface to showcase responsive design skills using HTML and CSS.
+
